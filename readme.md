@@ -1,2 +1,1 @@
-hello git 
- i am modifying the readme file
+hello everyone welcome to my guide
